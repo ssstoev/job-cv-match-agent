@@ -1,0 +1,53 @@
+Payhawk is a leading global spend management solution for scaling businesses. Headquartered in London and combining company cards, reimbursable expenses and accounts payable into a single product; its future-facing technology enables finance teams to control and automate company spending at scale.
+
+The Payhawk customer base includes fast-growing and mature multinational companies in 32 countries including LuxAir, Quantive, and Wagestream. With offices in New York, London, Berlin, Munich , Barcelona, Paris, Amsterdam, Vilnius and Sofia; Payhawk is backed by renowned investors such as Lightspeed Venture Partners, Greenoaks, QED Investors, Earlybird Digital East, and Eleven Ventures.
+
+Our values include supporting flat hierarchies, taking ownership and responsibility, seeking and providing feedback, managing constructive critique, and speaking our minds. We understand that the best ideas don’t all come from the same place, so we encourage diversity and inclusion in all areas of our work.
+
+The future of fintech is about more than money, and we believe in work-life balance, continual learning, and empowered teams. We’re also on a journey to improve our environmental and social impact and become B Corp certified. From virtual cards to digital subscriptions, our software and automation help take paper out of the equation for our customers, too.
+
+We’re changing the world of payments, and we’re looking for an exceptional team to help us.
+
+About the Role
+
+We are building something extraordinary at Payhawk, and we’re looking for a passionate Applied AI Engineer to join us as one of the pioneers working on our innovative agents. In this role, you’ll have the unique opportunity to be part of the foundational team shaping the future of how we leverage AI to transform financial operations. You’ll tackle complex challenges, design and deploy intelligent systems, and collaborate with a team of talented professionals to deliver impactful solutions. If you’re excited about pushing the boundaries of machine learning and making a real difference, we’d love to hear from you.
+
+Being part of the Payhawk team means that you’ll be developing a world-class product in the fast-growing fintech industry. We deliver an exceptional solution, and to continue doing so, we seek out the top 1% engineering talent.
+
+Responsibilities:
+
+Design and implement autonomous AI agents that leverage LLMs for reasoning, planning, and decision-making.
+Optimize and deploy LLM-based agents in production environments, ensuring efficiency, security, maintainability and reliability.
+Build robust evaluation pipelines to help us iterate over new versions of our end-to-end solution.
+Implement multi-agent systems where LLMs collaborate to solve tasks.
+Develop memory and context management strategies for long-term agent interactions.
+Fine-tune LLM models for functional calling.
+Distill LLM models for better performance and accuracy.
+Collaborate with cross-functional teams to integrate machine learning solutions into scalable products.
+Stay abreast of the latest advancements in large language models (e.g., GPT, LLama, Gemma) and Transformer-based architectures.
+Explore the evolving field of autonomous agents and identify opportunities for innovative applications.
+Leverage cloud platforms, particularly GCP, to deploy and maintain ML solutions efficiently.
+Requirements:
+
+Academic background in Computer Science, Mathematics, or a related discipline.
+Hands-on experience with LLM and Agents
+Proficiency in SQL and Python, along with expertise in major ML libraries and frameworks such as TensorFlow, PyTorch, and LangChain/LangGraph or AutoGen or LlamaIndex
+Strong understanding of text representation techniques, feature engineering, model development, and prompt engineering.
+Practical experience working with large-scale language models and Transformer-based systems.
+Familiarity with emerging trends in autonomous agents is a plus.
+Strong problem-solving abilities and a capacity to work independently.
+Ability to multitask, organize, and prioritize work.
+Exceptional integrity and work ethic.
+Company Benefits:
+
+Competitive compensation package based on experience
+Stock options
+30 days holiday paid leave
+One week exchange policy to another Payhawk office (London, Berlin, Barcelona, Paris, Amsterdam)
+Flexible working hours and opportunity to work from home
+Regular team-wide events
+Additional medical care
+MultiSport card fully funded by us
+Company office massages
+Personal assistant service
+Opportunity to use the Payhawk product (that is, essentially, built by you)
